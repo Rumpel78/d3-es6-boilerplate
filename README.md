@@ -19,7 +19,7 @@ Update: Removed bower in favor of npm
 ## Requirements
 
 - [NodeJs](http://www.nodejs.org), type `npm -v` on your terminal to check if you have it.
-- ~~Gulp `npm install -g gulp`~~ No need to global-install gulp
+- Gulp `npm install -g gulp`
 - ~~Bower `npm install -g bower`~~
 
 ## Getting Started
